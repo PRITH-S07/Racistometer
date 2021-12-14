@@ -19,6 +19,6 @@ However, in the jupyter notebook, the models are pickled and available in this r
 
 <p>
   The main page would look something like this: <br>
-  ![image](https://user-images.githubusercontent.com/58857629/146074637-bd50e5da-f877-49f7-b321-923d102d74b4.png)
+  ![img](https://user-images.githubusercontent.com/58857629/146074637-bd50e5da-f877-49f7-b321-923d102d74b4.png)
 
 
