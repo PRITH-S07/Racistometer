@@ -18,8 +18,11 @@ However, in the jupyter notebook, the models are pickled and available in this r
 ## Site functionality
 
 <p>
-  The main page would look something like this: <br>
-  ![image](https://github.com/PRITH-S07/Racistometer/blob/main/page_1.JPG?raw=true)
+  The main page would take in the user input and once we give in an input, click on predict. (Refer page_1.jpg)<br>
+  Then, based on the input, the output would be provided. (Refer page_2.jpg and page_3.jpg)
+</p>
+  
+
 
 
 
