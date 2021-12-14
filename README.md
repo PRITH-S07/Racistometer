@@ -14,3 +14,6 @@ This model has been deployed using Flask. Other frameworks used include
 </ol>
 The code for the deployed model is included here as well along with all the other frameworks as well.<br>
 However, in the jupyter notebook, the models are pickled and available in this repository. The other methods I have used here (only in the jupyter notebook) include: Naive Bayes, Decision Tree, KNN and Random Forest.
+
+## Site functionality
+
