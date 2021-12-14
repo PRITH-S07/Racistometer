@@ -1,7 +1,8 @@
 # Racism-and-Offensive-Text-Detection
 
 <p>
-Link to the Google Colab code: https://colab.research.google.com/drive/1T-9GJBWCgE5QxDgEgSJ6p9YQYcYosTx7?usp=sharing <br>
+Link to the Google Colab code to the main code: https://colab.research.google.com/drive/1T-9GJBWCgE5QxDgEgSJ6p9YQYcYosTx7?usp=sharing <br>
+Link to the Google Colab code to the deployment based code: https://colab.research.google.com/drive/1KHUlQZHDxMm9iEGz2TLFJQt6w9K5AKBD#scrollTo=SaketWGJWZ6D<br>
 Here, I've created models which predict whether a given sentence contains some hate or offensive overtone. The logistic regression classifier has done well in both the cases.<br>
 </p>
 We get an accuracy of around 94% in both the cases of hate and offensive content detection.<br>
