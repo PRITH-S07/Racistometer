@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Racistometer</title>
+</head>
+<body>
+    <center>
+    <h1>Racistometer</h1>
+    <hr>
+    <p>This application will tell you how racist/how much hate is there in a particular sentence.</p><br>
+    <form method="POST", action="{{url_for('home')}}">
+        Enter your text here:<br>
+        <input type="text" name="rtext"><br><br>
+        <input type="submit", value='predict'>
+    </form>
+    </center>
+</body>
+</html>
+<style>
+    body{
+        background-image: url('https://github.com/PRITH-S07/Racism-and-Offensive-Text-Detection/blob/main/antiracism.png?raw=true');
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+</style>
