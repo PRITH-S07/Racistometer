@@ -19,7 +19,7 @@ However, in the jupyter notebook, the models are pickled and available in this r
 
 <p>
   The main page would look something like this: <br>
-  ![image](https://github.com/PRITH-S07/Racistometer/blob/main/page_1.JPG)
+  ![image](https://github.com/PRITH-S07/Racistometer/blob/main/page_1.JPG?raw=true)
 
 
 
